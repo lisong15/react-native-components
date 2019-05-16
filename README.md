@@ -1,5 +1,5 @@
 ### 1. 通用button   
-![image](https://github.com/lisong15/react-native-scomponents/blob/master/pic/button.png)
+![image](https://github.com/lisong15/react-native-components/blob/master/imgs/button.png?raw=true)
 ### how to install ?
 `npm install react-native-common_button --save`
 or use yarn
@@ -27,7 +27,7 @@ onBtnClick: func.isRequired
 ```
 ***
 ### 2. 通用dialog   
-![image](https://github.com/lisong15/react-native-scomponents/blob/master/pic/dialog.png)
+![image](https://github.com/lisong15/react-native-components/blob/master/imgs/dialog.png?raw=true)
 ### how to install ?
 `npm install react-native-ldialog --save`
 or use yarn
