@@ -1,0 +1,26 @@
+{
+  "name": "react-native-cmbutton",
+  "version": "0.0.2",
+  "description": "this is common button for react-native",
+  "main": "button.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisong15/react-native-scomponents.git"
+  },
+  "keywords": [
+    "['react-native'",
+    "'button','react-native-button']"
+  ],
+  "author": "lsman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisong15/react-native-scomponents/issues"
+  },
+  "homepage": "https://github.com/lisong15/react-native-scomponents#readme",
+  "dependencies": {
+    "react-native-cmbutton": "^0.0.1"
+  }
+}
