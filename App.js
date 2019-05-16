@@ -58,6 +58,13 @@ export default class App extends Component {
                 <Text style={styles.instructions}>To get started, edit App.js</Text>
                 <Text style={styles.instructions}>{instructions}</Text>
                 <Button onBtnClick={this._onBtnB}/>
+                {/*<Button onBtnClick={this._onBtnB} btnColor="aqua"/>*/}
+                {/*<View style={{height:20}}></View>*/}
+                {/*<Button onBtnClick={this._onBtnB} btnColor="aquamarine"/>*/}
+                {/*<View style={{height:20}}></View>*/}
+                {/*<Button onBtnClick={this._onBtnB} btnColor="chocolate"/>*/}
+                {/*<View style={{height:20}}></View>*/}
+                {/*<Button onBtnClick={this._onBtnB} btnColor="chartreuse"/>*/}
                 <Dialog isVisible={this.state.show}
                         textContent="确认退出么，点击确定将会退出喽"
                         leftBtnText={"cancel"} rightBtnText={"confirm"}
